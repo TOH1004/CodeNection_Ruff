@@ -9,13 +9,15 @@ Built by Team Pelajar-Pelajar.
 •	And in a real emergency, they need to quickly send their exact location to trusted people.<br>
 •	On top of that, stress and fear can get overwhelming — so we provide an AI companion to keep users calm, cared for, or entertained.<br>
 
+### Video Presentation Link 
+
 
 ## What Our App Does 
 
-### Start a journey <br>
-User must first start a journey and enter a “room.” <br>
-The room acts as a session where friends or guardians can monitor the journey in real-time. <br>
-Once the journey has started, other features like AI Companion and SOS button become available. <br>
+### Onboarding & Journey Start <br>
+Home screen with mascot guardian (Ruff) and a “Start Now” button. <br>
+User selects current location and destination to begin a “journey”. <br>
+A video-call room created for accompaniment. <br>
 
 ### Post Status for Company <br>
 Users can create a status whenever they want a companion to walk home with them.  <br>
@@ -30,18 +32,22 @@ In Chatty Mode 💬, it engages with cheerful conversation, fun facts, and frien
 In Caring Mode 🤗, the AI provides gentle reassurance, emotional support, and calming tips to help users feel safe and at ease. <br>
 
 ### SOS Button <br>
-With a single tap, users can activate the emergency SOS button whenever they feel unsafe.  <br>
-Once triggered, the app instantly records their exact GPS location and a precise timestamp. <br> 
+SOS button will be triggered in condition below: 
+i) User presses the big red SOS button. 
+ii) User's connection lost for more than 30 seconds. 
+iii) User not tap their screen within 1.5 minutes. The 1-minute countdown is displayed and counted by tapping anywhere in screen. The another 30 seconds is for checking your condition.
+
+#### After SOS button triggered: 
+The app instantly records their exact GPS location and a precise timestamp. <br> 
 At the same time, the backend calculates the safest and fastest route to a nearby secure place, such as a guardhouse or operating stores.  <br>
 Guardians and campus security are immediately notified with the live location and route details, allowing them to respond quickly and effectively. <br>
 
-### Safety Check Timer <br>
-A safety check is included that asks users to tap their phone within one minute to confirm they are okay.  <br>
-This quick action reassures both the system and their guardians that the user is safe and alert.  <br>
-If no response is detected, the SOS button is automatically triggered. <br>
-
-### SOS History Timeline <br>
-Users can access a history section that displays all of their past SOS activations in a clear timeline format and the place with details address for safety audits. <br>
+#### User's response paths: 
+i) Wait for guard - The feature is designed for users with injuries or limited mobility. When a guard receives the SOS notification, they will come to assist the user.
+ii) Go to the nearest shop - Designed for situations where the user feels they are being followed. 
+The app provides a safe route to an open shop. 
+If the user still feels unsafe upon arrival, guards can proceed to their location.
+** After resolution, the app offers to (a) post a “safe now” status or (b) continue the journey **
 
 ### Offline Safety Guidance
 If the user has no internet connection, the app will display the nearest guardhouse address and their destination address using pre-downloaded data.
