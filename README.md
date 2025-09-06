@@ -55,7 +55,7 @@ The next 30 seconds are used to check on user's condition.<br>
 **Nearby operating stores and the guardhouse location** will be displayed. 
 Guardians and campus security are immediately **notified with the live location and route details**, allowing them to respond quickly and effectively. <br>
 
-**User can choose to:** <br>
+#### User can choose to:
 i) **Wait for guard** - The feature is designed for users with injuries or limited mobility. When a guard receives the SOS notification, they will come to assist the user. <br>
 ii) **Go to the nearest shop** - Designed for situations where the user feels they are being followed. The app provides a safe route to an open shop. <br> 
 
