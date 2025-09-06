@@ -13,11 +13,8 @@ Built by Team **Pelajar-Pelajar**.
 •	And in a real emergency, they need to quickly send their exact location to trusted people.<br> <br>
 •	On top of that, stress and fear can get overwhelming — so we provide an AI companion to keep users calm, cared for, or entertained.<br> <br>
 
-### Video Presentation Link 📹
-
-### Presentation Slides 📑
-
-### First of all, feel free to dive in and play around with our UI framework in Figma ➡️ 
+### First of all, dive in and check out our video presentation, flip through the presentation slides, and play around with our UI framework in Figma. 
+### Next, let me walk you through the details of this project.
 
 ## Here’s what our app can do ✅
 
