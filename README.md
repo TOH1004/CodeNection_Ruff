@@ -14,7 +14,7 @@ Built by Team **Pelajar-Pelajar**.
 
 ## What Our App Does 
 
-### Onboarding & Journey Start <br>
+### Onboarding & Journey Start
 Home screen with mascot guardian (Ruff) and a **“Start Now”** button. <br>
 User selects current location and destination to begin a “journey”. <br>
 A video-call room created for accompaniment. <br>
