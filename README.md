@@ -13,10 +13,13 @@ Built by Team **Pelajar-Pelajar**.
 •	And in a real emergency, they need to quickly send their exact location to trusted people.<br> <br>
 •	On top of that, stress and fear can get overwhelming — so we provide an AI companion to keep users calm, cared for, or entertained.<br> <br>
 
-### Video Presentation Link 
+### Video Presentation Link 📹
 
+### Presentation Slides 📑
 
-## What Our App Does 
+### First of all, feel free to dive in and play around with our UI framework in Figma ➡️ 
+
+## Here’s what our app can do ✅
 
 ### 1. Onboarding & Journey Start 🛣️ 
 When users land on our homepage, they will see a **“Start Now”** button. By tapping it, they can choose their destination to begin their journey. At the same time, a **video-call room** will be created to provide real-time accompaniment. <br>
@@ -95,7 +98,7 @@ At the same time, an **SMS alert** containing this information will be sent to b
 1. Firebase Cloud Messaging (FCM) - To send instant SOS notifications to guardians & campus security.
 2. Telephony - For sending SMS alerts when there’s no internet.
 
-## Conclusion ✍️
+## Conclusion 🏁
 Ruff is more than just a campus safety app — it is a trusted companion that combines blockchain security, AI-driven emotional support, and real-time emergency response into one platform. By empowering students to stay connected with friends, guardians, and security personnel, Ruff creates a safer and more supportive campus environment.<br><br>
 
 Team Pelajar-Pelajar built this project with the vision of giving every student peace of mind, whether they are walking home with a friend, accompanied by our AI Buddy, or relying on the SOS system in times of need. With Ruff, no one has to feel alone when it matters most.<br>
