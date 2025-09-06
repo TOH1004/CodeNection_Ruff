@@ -95,7 +95,7 @@ At the same time, an **SMS alert** containing this information will be sent to b
 1. Firebase Cloud Messaging (FCM) - To send instant SOS notifications to guardians & campus security.
 2. Telephony - For sending SMS alerts when there’s no internet.
 
-## Conclusion
+## Conclusion ✍️
 Ruff is more than just a campus safety app — it is a trusted companion that combines blockchain security, AI-driven emotional support, and real-time emergency response into one platform. By empowering students to stay connected with friends, guardians, and security personnel, Ruff creates a safer and more supportive campus environment.<br><br>
 
 Team Pelajar-Pelajar built this project with the vision of giving every student peace of mind, whether they are walking home with a friend, accompanied by our AI Buddy, or relying on the SOS system in times of need. With Ruff, no one has to feel alone when it matters most.<br>
