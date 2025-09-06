@@ -36,9 +36,9 @@ Users also have the option to share their location with friends through external
 ### 3. AI Companion 🤖 <br>
 If user still alone, they can choose to be accompanied by our AI Buddy. <br>
 Our AI Buddy comes with useful skills such as calming scripts, campus safety tips, and helpful reminders which offers **three** supportive modes.  <br>
-In **Silent Mode 🎵**, the AI stays mostly quiet, giving short affirmations and playing soothing background music.  <br>
-In **Chatty Mode 💬**, it engages with cheerful conversation, fun facts, and friendly banter to keep the user company.  <br>
-In **Caring Mode 🤗**, the AI provides gentle reassurance, emotional support, and calming tips to help users feel safe and at ease. <br>
+In **Silent Mode 🎵**, the AI **stays mostly quiet**, giving short affirmations and playing soothing background music.  <br>
+In **Chatty Mode 💬**, it engages with **cheerful conversation**, fun facts, and friendly banter to keep the user company.  <br>
+In **Caring Mode 🤗**, the AI provides **gentle reassurance**, emotional support, and calming tips to help users feel safe and at ease. <br>
 The AI companion also acts as a long-term companion, staying with users by recognizing **safe words** in their speech. These **safe words** are set by the users to ensure their safety, and users can choose whether to enable this feature.
 #### Technical Approach
 *We plan to use **GPT-3.5 free tier** as our AI model, where the prompts we send will be adjusted depending on the mode selected by the user. In addition, we will integrate a **Text-to-Speech (TTS) system** using the **flutter_tts plugin**, which which enables the AI to interact with users using a natural-sounding voice.*
@@ -85,8 +85,8 @@ At the same time, an **SMS alert** containing this information will be sent to b
 1. Node.js - Main backend framework to handle SOS requests and status posts
 ### Database
 1. PostgreSQL- Stores static safe locations (guardhouses and operating stores).
-2. Firebase Firestore - For real-time storage of user posts/status.
-3. SQLite (local database) → For storing guardhouse addresses and user’s destination for offline mode.
+2. Firebase - For real-time storage of user posts/status.
+3. SQLite (local database) - For storing guardhouse addresses and user’s destination for offline mode.
 ### Artificial Intelligence / Machine Learning
 1. OpenAI GPT-3.5 (Free Tier) - Powers AI Buddy conversations in 3 modes (Silent, Chatty, Caring).
 ### External APIs
