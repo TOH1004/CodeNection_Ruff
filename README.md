@@ -4,10 +4,10 @@ Ruff is a campus safety application designed to protect students through **frien
 Built by Team **Pelajar-Pelajar**.
 
 ## What Problem We Solve
-•	Many students and staff feel unsafe when walking alone, especially at night. <br>
-•	Sometimes they want a companion, sometimes they just need someone checking on them.<br>
-•	And in a real emergency, they need to quickly send their exact location to trusted people.<br>
-•	On top of that, stress and fear can get overwhelming — so we provide an AI companion to keep users calm, cared for, or entertained.<br>
+•	Many students and staff feel unsafe when walking alone, especially at night. <br> <br>
+•	Sometimes they want a companion, sometimes they just need someone checking on them.<br> <br>
+•	And in a real emergency, they need to quickly send their exact location to trusted people.<br> <br>
+•	On top of that, stress and fear can get overwhelming — so we provide an AI companion to keep users calm, cared for, or entertained.<br> <br>
 
 ### Video Presentation Link 
 
