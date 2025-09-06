@@ -3,7 +3,7 @@
 Ruff is a campus safety application designed to protect students through **friend accompaniment, AI support, blockchain-secured safety logs, and a smart SOS system**. <br>
 Built by Team **Pelajar-Pelajar**.
 
-## What Problem We Solve
+## What Problem We Solve ⚠️
 •	Many students and staff feel unsafe when walking alone, especially at night. <br> <br>
 •	Sometimes they want a companion, sometimes they just need someone checking on them.<br> <br>
 •	And in a real emergency, they need to quickly send their exact location to trusted people.<br> <br>
@@ -14,13 +14,13 @@ Built by Team **Pelajar-Pelajar**.
 
 ## What Our App Does 
 
-### 1. Onboarding & Journey Start
+### 1. Onboarding & Journey Start 🛣️ 
 When users land on our homepage, they will see a **“Start Now”** button. By tapping it, they can choose their destination to begin their journey. At the same time, a **video-call room** will be created to provide real-time accompaniment. <br>
 #### Technical Approach
 *To detect user's current location, we planned to use a **GPS-based geolocation**, combined with **Flutter's Geolocator package** which will communicates with phone's GPS and Wi-Fi to find user's position.*
 
 
-### 2. Post Status for Acompanian <br>
+### 2. Post Status for Acompanian 👫 <br>
 Users can **create a status** whenever they want a companion to walk home with them.
 They can also control who is able to view the post, and the system will only display their **coarse location** for privacy.
 Other users can then browse the in "status" to see these posts in real time. <br>
@@ -28,7 +28,7 @@ Other users can then browse the in "status" to see these posts in real time. <br
 *When user create a status in our application, the data will be stored in a secure cloud database which is **Firebase**.*
 
 
-### 3. AI Companion <br>
+### 3. AI Companion 🤖 <br>
 If user still alone, they can choose to be accompanied by our AI Buddy. <br>
 Our AI Buddy comes with useful skills such as calming scripts, campus safety tips, and helpful reminders which offers **three** supportive modes.  <br>
 In **Silent Mode 🎵**, the AI stays mostly quiet, giving short affirmations and playing soothing background music.  <br>
@@ -38,7 +38,7 @@ In **Caring Mode 🤗**, the AI provides gentle reassurance, emotional support, 
 *We plan to use **GPT-3.5 free tier** as our AI model, where the prompts we send will be adjusted depending on the mode selected by the user. In addition, we will integrate a **Text-to-Speech (TTS) system** using the **flutter_tts plugin**, which which enables the AI to interact with users using a natural-sounding voice.*
 
 
-### 4. SOS Button <br>
+### 4. SOS Button 🚨 <br>
 SOS button will be triggered in condition below: <br>
 i) User **presses the big red SOS button**. <br>
 ii) User's **connection lost for more than 30 seconds**. <br> 
@@ -62,7 +62,7 @@ After resolution, the app offers to (a) post a “safe now” status or (b) cont
 *ii) The operating stores - will be verified for availability through **Google Places API**.*
 *The backend will uses **Firebase Cloud Messaging(FCM)** to push notification to guardian and campus security*
 
-### Offline Safety Guidance
+### 5. Offline Safety Guidance 📴
 If the user has no internet connection, the app will start a **30-second countdown** to check their safety. <br>
 If the user **does not respond or indicates danger**, the app will automatically display the nearest **guardhouse address** along with the **user’s destination** (from pre-downloaded data). <br>
 At the same time, an **SMS alert** containing this information will be sent to both the nearest guard and the user’s guardian. <br>
