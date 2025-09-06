@@ -1,4 +1,4 @@
-# Ruff 🐾 – Campus Safety Companion
+# Ruff 🐾 – Campus Safety Companion 🐶
 
 Ruff is a campus safety application designed to protect students through **friend accompaniment, AI support, blockchain-secured safety logs, and a smart SOS system**. <br>
 Built by Team **Pelajar-Pelajar**.
@@ -72,8 +72,8 @@ At the same time, an **SMS alert** containing this information will be sent to b
 
 ### Additional Features
 Here, the user can choose if they want the functions to be activated. <br>
-Motion Detaction - Includes anomaly motion detection, which can identify unusual patterns such as sudden stops or unexpected route deviations. <br>
-Safe word - A chosen word or phrase the user can say aloud to prevent the SOS alert from being activated. <br>
+**Motion Detaction** - Includes anomaly motion detection, which can identify unusual patterns such as sudden stops or unexpected route deviations. <br>
+**Safe word** - A chosen word or phrase the user can say aloud to prevent the SOS alert from being activated. <br>
 
 ## Tech Stack
 ### Frontend
