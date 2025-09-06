@@ -77,7 +77,7 @@ At the same time, an **SMS alert** containing this information will be sent to b
 *For SMS alert, we planned to use **telephony package** that available in **Flutter**. Instead of using online servers, it uses the **phone’s SIM card** to send a text directly which is useful for offline condition.*
 
 
-## Tech Stack
+## Tech Stack 💻
 ### Frontend
 1. Flutter - For cross-platform which is Android and iOS mobile application.
 2. Figma – Used to craft the frontend UI/UX. 
