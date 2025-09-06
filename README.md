@@ -48,7 +48,7 @@ i) **Wait for guard** - The feature is designed for users with injuries or limit
 ii) **Go to the nearest shop** - Designed for situations where the user feels they are being followed. <br>
 The app provides a safe route to an open shop. <br>
 If the user still feels unsafe upon arrival, guards can proceed to their location.<br>
-** After resolution, the app offers to (a) post a “safe now” status or (b) continue the journey ** <br>
+**After resolution, the app offers to (a) post a “safe now” status or (b) continue the journey.** 
 
 ### Offline Safety Guidance
 If the user has no internet connection, the app will display the nearest guardhouse address and their destination address using pre-downloaded data. <br>
