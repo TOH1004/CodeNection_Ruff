@@ -32,10 +32,10 @@ In Chatty Mode 💬, it engages with cheerful conversation, fun facts, and frien
 In Caring Mode 🤗, the AI provides gentle reassurance, emotional support, and calming tips to help users feel safe and at ease. <br>
 
 ### SOS Button <br>
-SOS button will be triggered in condition below: 
-i) User presses the big red SOS button. 
-ii) User's connection lost for more than 30 seconds. 
-iii) User not tap their screen within 1.5 minutes. The 1-minute countdown is displayed and counted by tapping anywhere in screen. The another 30 seconds is for checking your condition.
+SOS button will be triggered in condition below: <br>
+i) User presses the big red SOS button. <br>
+ii) User's connection lost for more than 30 seconds. <br> 
+iii) User not tap their screen within 1.5 minutes. The 1-minute countdown is displayed and counted by tapping anywhere in screen. The another 30 seconds is for checking your condition.<br>
 
 #### After SOS button triggered: 
 The app instantly records their exact GPS location and a precise timestamp. <br> 
@@ -43,14 +43,14 @@ At the same time, the backend calculates the safest and fastest route to a nearb
 Guardians and campus security are immediately notified with the live location and route details, allowing them to respond quickly and effectively. <br>
 
 #### User's response paths: 
-i) Wait for guard - The feature is designed for users with injuries or limited mobility. When a guard receives the SOS notification, they will come to assist the user.
-ii) Go to the nearest shop - Designed for situations where the user feels they are being followed. 
-The app provides a safe route to an open shop. 
-If the user still feels unsafe upon arrival, guards can proceed to their location.
-** After resolution, the app offers to (a) post a “safe now” status or (b) continue the journey **
+i) Wait for guard - The feature is designed for users with injuries or limited mobility. When a guard receives the SOS notification, they will come to assist the user. <br>
+ii) Go to the nearest shop - Designed for situations where the user feels they are being followed. <br>
+The app provides a safe route to an open shop. <br>
+If the user still feels unsafe upon arrival, guards can proceed to their location.<br>
+** After resolution, the app offers to (a) post a “safe now” status or (b) continue the journey ** <br>
 
 ### Offline Safety Guidance
-If the user has no internet connection, the app will display the nearest guardhouse address and their destination address using pre-downloaded data.
+If the user has no internet connection, the app will display the nearest guardhouse address and their destination address using pre-downloaded data. <br>
 
 ## Technical Parts
 
