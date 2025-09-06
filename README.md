@@ -30,7 +30,7 @@ They can also control who is able to view the post, and the system will only dis
 Other users can then browse the in "status" to see these posts in real time. <br>
 Users also have the option to share their location with friends through external apps such as WhatsApp or Telegram. <br>
 #### Technical Approach
-*When user create a status in our application, the data will be stored in a secure cloud database which is **Firebase**.*
+*When user create a status in our application, the data will be stored in a secure cloud database which is **Firebase**.*<br>
 *The connection with external application will be connected by **share_plus plugin by flutter**.*
 
 ### 3. AI Companion 🤖 <br>
