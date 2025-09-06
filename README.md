@@ -3,7 +3,14 @@
 Ruff is a campus safety application designed to protect students through friend accompaniment, AI support, blockchain-secured safety logs, and a smart SOS system.
 Built by Team Pelajar-Pelajar.
 
-## Features: 
+## What Problem We Solve
+•	Many students and staff feel unsafe when walking alone, especially at night.
+•	Sometimes they want a companion, sometimes they just need someone checking on them.
+•	And in a real emergency, they need to quickly send their exact location to trusted people.
+•	On top of that, stress and fear can get overwhelming — so we provide an AI companion to keep users calm, cared for, or entertained.
+
+
+## What Our App Does 
 
 ### Start a journey <br>
 User must first start a journey and enter a “room.” <br>
