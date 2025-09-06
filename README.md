@@ -25,7 +25,7 @@ They can also control who is able to view the post, and the system will only dis
 Other users can then browse the in "status" to see these posts in real time. <br>
 
 ### AI Companion (3 Modes) <br>
-If a user is still alone, they can choose to be accompanied by our AI Buddy. <br>
+If user still alone, they can choose to be accompanied by our AI Buddy. <br>
 Our AI Buddy comes with useful skills such as calming scripts, campus safety tips, and helpful reminders which offers **three** supportive modes.  <br>
 In **Silent Mode 🎵**, the AI stays mostly quiet, giving short affirmations and playing soothing background music.  <br>
 In **Chatty Mode 💬**, it engages with cheerful conversation, fun facts, and friendly banter to keep the user company.  <br>
