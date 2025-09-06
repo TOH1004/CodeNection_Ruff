@@ -1,7 +1,11 @@
 # Ruff 🐾 – Campus Safety Companion 🐶
 
 Ruff is a campus safety application designed to protect students through **friend accompaniment, AI support, blockchain-secured safety logs, and a smart SOS system**. <br>
+
 Built by Team **Pelajar-Pelajar**.
+1. Yeat Jing Rong
+2. Toh Shee Thong
+3. Dawson Chan Shang Lin
 
 ## What Problem We Solve ⚠️
 •	Many students and staff feel unsafe when walking alone, especially at night. <br> <br>
@@ -24,9 +28,10 @@ When users land on our homepage, they will see a **“Start Now”** button. By 
 Users can **create a status** whenever they want a companion to walk home with them.
 They can also control who is able to view the post, and the system will only display their **coarse location** for privacy.
 Other users can then browse the in "status" to see these posts in real time. <br>
+Users also have the option to share their location with friends through external apps such as WhatsApp or Telegram. <br>
 #### Technical Approach
 *When user create a status in our application, the data will be stored in a secure cloud database which is **Firebase**.*
-
+*The connection with external application will be connected by **share_plus plugin by flutter**.*
 
 ### 3. AI Companion 🤖 <br>
 If user still alone, they can choose to be accompanied by our AI Buddy. <br>
@@ -34,6 +39,7 @@ Our AI Buddy comes with useful skills such as calming scripts, campus safety tip
 In **Silent Mode 🎵**, the AI stays mostly quiet, giving short affirmations and playing soothing background music.  <br>
 In **Chatty Mode 💬**, it engages with cheerful conversation, fun facts, and friendly banter to keep the user company.  <br>
 In **Caring Mode 🤗**, the AI provides gentle reassurance, emotional support, and calming tips to help users feel safe and at ease. <br>
+The AI companion also acts as a long-term companion, staying with users by recognizing **safe words** in their speech. These **safe words** are set by the users to ensure their safety, and users can choose whether to enable this feature.
 #### Technical Approach
 *We plan to use **GPT-3.5 free tier** as our AI model, where the prompts we send will be adjusted depending on the mode selected by the user. In addition, we will integrate a **Text-to-Speech (TTS) system** using the **flutter_tts plugin**, which which enables the AI to interact with users using a natural-sounding voice.*
 
@@ -70,14 +76,11 @@ At the same time, an **SMS alert** containing this information will be sent to b
 *To store the guardhouse address and user's destination, we planned to use a **local database** such as **SQLite** which is a built-in small database for mobile application to store the data.*<br>
 *For SMS alert, we planned to use **telephony package** that available in **Flutter**. Instead of using online servers, it uses the **phone’s SIM card** to send a text directly which is useful for offline condition.*
 
-### Additional Features
-Here, the user can choose if they want the functions to be activated. <br>
-**Motion Detaction** - Includes anomaly motion detection, which can identify unusual patterns such as sudden stops or unexpected route deviations. <br>
-**Safe word** - A chosen word or phrase the user can say aloud to prevent the SOS alert from being activated. <br>
 
 ## Tech Stack
 ### Frontend
 1. Flutter - For cross-platform which is Android and iOS mobile application.
+2. Figma – Used to craft the frontend UI/UX. 
 ### Backend
 1. Node.js - Main backend framework to handle SOS requests and status posts
 ### Database
@@ -91,9 +94,8 @@ Here, the user can choose if they want the functions to be activated. <br>
 ### Communication
 1. Firebase Cloud Messaging (FCM) - To send instant SOS notifications to guardians & campus security.
 2. Telephony - For sending SMS alerts when there’s no internet.
-   
-## Conclusion
 
+## Conclusion
 Ruff is more than just a campus safety app — it is a trusted companion that combines blockchain security, AI-driven emotional support, and real-time emergency response into one platform. By empowering students to stay connected with friends, guardians, and security personnel, Ruff creates a safer and more supportive campus environment.<br><br>
 
 Team Pelajar-Pelajar built this project with the vision of giving every student peace of mind, whether they are walking home with a friend, accompanied by our AI Buddy, or relying on the SOS system in times of need. With Ruff, no one has to feel alone when it matters most.<br>
