@@ -15,7 +15,7 @@ Track: Campus Management (Campus Safety App)
 •	And in a real emergency, they need to quickly send their exact location to trusted people.<br> <br>
 •	On top of that, stress and fear can get overwhelming — so we provide an AI companion to keep users calm, cared for, or entertained.<br>
 
-### First of all, feel free to dive in and [check out our video presentation📹](), [flip through the presentation slides📑](https://github.com/TOH1004/CodeNection_Ruff/blob/main/Team%20Pelajar-Pelajar_Ruff.pdf), and [play around with our UI framework in Figma📱](https://www.figma.com/design/Is7K2aTnqgapnNkhJ9JZ81/CodeNection?node-id=0-1&t=QfTOygHvVbg7UGej-1) . 
+### First of all, feel free to dive in and [check out our video presentation📹](https://youtu.be/QZbEvUgRgYA), [flip through the presentation slides📑](https://github.com/TOH1004/CodeNection_Ruff/blob/main/Pelajar-pelajar_Slide.pdf), and [play around with our UI framework in Figma📱](https://www.figma.com/design/Is7K2aTnqgapnNkhJ9JZ81/CodeNection?node-id=0-1&t=QfTOygHvVbg7UGej-1) . 
 ### Next, let me walk you through the details of this project.<br><br>
 
 ## Here’s what our app can do ✅
