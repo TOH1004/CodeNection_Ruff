@@ -1,6 +1,6 @@
 # Ruff 🐾 – Campus Safety Companion 🐶
 
-Ruff is a campus safety application designed to protect students through **friend accompaniment, AI support, blockchain-secured safety logs, and a smart SOS system**. <br>
+Ruff is a campus safety application designed to protect students through **friend accompaniment, AI support, and a smart SOS system**. <br>
 
 Built by Team **Pelajar-Pelajar**.
 1. Yeat Jing Rong
